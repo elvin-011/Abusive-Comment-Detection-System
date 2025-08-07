@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import torch
 import numpy as np
 import matplotlib.pyplot as plt
@@ -1410,5 +1409,4 @@ def main():
                 )
 
 if __name__ == "__main__":
->>>>>>> 64bbdfa32325c45a8e5b3ea2552d82d43bbfc6d9
     main()
