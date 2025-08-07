@@ -1,0 +1,10 @@
+{
+  "mc_dropout": {
+    "enabled": true,
+    "num_forward_passes": 5
+  },
+  "temperature_scaling": {
+    "enabled": true,
+    "temperature": 1.5
+  }
+}

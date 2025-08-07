@@ -1,0 +1,9 @@
+streamlit>=1.28.0
+torch>=1.13.0
+transformers>=4.21.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+plotly>=5.10.0
+lime>=0.2.0.1
+Pillow>=9.0.0
+regex>=2022.1.18
